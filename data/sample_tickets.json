@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "Cannot login to my account, forgot password",
+    "category": "Authentication",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "text": "Reset password link not working",
+    "category": "Authentication",
+    "priority": "High"
+  },
+  {
+    "id": 3,
+    "text": "Two-factor authentication setup help needed",
+    "category": "Authentication",
+    "priority": "Medium"
+  },
+  {
+    "id": 4,
+    "text": "Account locked after multiple failed login attempts",
+    "category": "Authentication",
+    "priority": "High"
+  },
+  {
+    "id": 5,
+    "text": "Charged twice for my subscription this month",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "id": 6,
+    "text": "Want to cancel my subscription",
+    "category": "Billing",
+    "priority": "Medium"
+  },
+  {
+    "id": 7,
+    "text": "Invoice not received for last month",
+    "category": "Billing",
+    "priority": "Low"
+  },
+  {
+    "id": 8,
+    "text": "Update payment method on my account",
+    "category": "Billing",
+    "priority": "Medium"
+  },
+  {
+    "id": 9,
+    "text": "Refund request for duplicate charge",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "id": 10,
+    "text": "App crashes when I click on settings",
+    "category": "Technical",
+    "priority": "High"
+  },
+  {
+    "id": 11,
+    "text": "Feature X is not working as expected",
+    "category": "Technical",
+    "priority": "Medium"
+  },
+  {
+    "id": 12,
+    "text": "Slow loading times on dashboard",
+    "category": "Technical",
+    "priority": "Medium"
+  },
+  {
+    "id": 13,
+    "text": "Error message when uploading files",
+    "category": "Technical",
+    "priority": "High"
+  },
+  {
+    "id": 14,
+    "text": "Mobile app not syncing with web version",
+    "category": "Technical",
+    "priority": "Medium"
+  },
+  {
+    "id": 15,
+    "text": "How do I export my data?",
+    "category": "Feature Request",
+    "priority": "Low"
+  },
+  {
+    "id": 16,
+    "text": "Need integration with Google Calendar",
+    "category": "Feature Request",
+    "priority": "Medium"
+  },
+  {
+    "id": 17,
+    "text": "Add dark mode to the application",
+    "category": "Feature Request",
+    "priority": "Low"
+  },
+  {
+    "id": 18,
+    "text": "General question about pricing plans",
+    "category": "General Inquiry",
+    "priority": "Low"
+  },
+  {
+    "id": 19,
+    "text": "What are your business hours?",
+    "category": "General Inquiry",
+    "priority": "Low"
+  },
+  {
+    "id": 20,
+    "text": "How to upgrade to premium plan?",
+    "category": "General Inquiry",
+    "priority": "Medium"
+  }
+]

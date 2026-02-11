@@ -1,0 +1,15 @@
+# Core Dependencies
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+python-dotenv==1.0.0
+requests==2.31.0
+msgpack==1.0.8
+
+# ML & Embeddings
+sentence-transformers>=2.7.0
+torch>=2.0.0
+transformers>=4.30.0
+
+# Utilities
+numpy>=1.24.0
